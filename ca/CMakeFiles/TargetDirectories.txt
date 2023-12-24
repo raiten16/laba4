@@ -1,0 +1,8 @@
+/home/lub/kursach/4lab/calculator/CMakeFiles/install/strip.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/install/local.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/edit_cache.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/install.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/list_install_components.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/rebuild_cache.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/calculator_app.dir
+/home/lub/kursach/4lab/calculator/CMakeFiles/calculator.dir
